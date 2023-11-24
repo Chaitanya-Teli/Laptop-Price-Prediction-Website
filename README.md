@@ -67,5 +67,4 @@ streamlit run app.py
 <hr>
 <footer>
   Feel free to send issues if you face any problem. </br>
-  ✨ Don't forget to star the repo :)
 </footer>
